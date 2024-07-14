@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pravi\\Desktop\\exam\\Assignment2\\Assignment2.csproj": {}
+    "C:\\Users\\jayba\\Downloads\\Git-Data\\.NET\\AllAssignment\\Assignment2\\Assignment2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pravi\\Desktop\\exam\\Assignment2\\Assignment2.csproj": {
+    "C:\\Users\\jayba\\Downloads\\Git-Data\\.NET\\AllAssignment\\Assignment2\\Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pravi\\Desktop\\exam\\Assignment2\\Assignment2.csproj",
+        "projectUniqueName": "C:\\Users\\jayba\\Downloads\\Git-Data\\.NET\\AllAssignment\\Assignment2\\Assignment2.csproj",
         "projectName": "Assignment2",
-        "projectPath": "C:\\Users\\pravi\\Desktop\\exam\\Assignment2\\Assignment2.csproj",
-        "packagesPath": "C:\\Users\\pravi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pravi\\Desktop\\exam\\Assignment2\\obj\\",
+        "projectPath": "C:\\Users\\jayba\\Downloads\\Git-Data\\.NET\\AllAssignment\\Assignment2\\Assignment2.csproj",
+        "packagesPath": "C:\\Users\\jayba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jayba\\Downloads\\Git-Data\\.NET\\AllAssignment\\Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jayba\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

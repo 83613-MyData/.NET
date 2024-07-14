@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jayba\\Downloads\\Git-Data\\.NET\\AllAssignment\\Assignment2\\Assignment2.csproj",
-      "projectName": "Assignment2",
-      "projectPath": "C:\\Users\\jayba\\Downloads\\Git-Data\\.NET\\AllAssignment\\Assignment2\\Assignment2.csproj",
+      "projectUniqueName": "C:\\Users\\jayba\\Downloads\\Git-Data\\.NET\\AllAssignment\\Assignment3\\Assignment3.csproj",
+      "projectName": "Assignment3",
+      "projectPath": "C:\\Users\\jayba\\Downloads\\Git-Data\\.NET\\AllAssignment\\Assignment3\\Assignment3.csproj",
       "packagesPath": "C:\\Users\\jayba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jayba\\Downloads\\Git-Data\\.NET\\AllAssignment\\Assignment2\\obj\\",
+      "outputPath": "C:\\Users\\jayba\\Downloads\\Git-Data\\.NET\\AllAssignment\\Assignment3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jayba\\AppData\\Roaming\\NuGet\\NuGet.Config",

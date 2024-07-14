@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pravi\\Desktop\\exam\\Assignment1\\Assignment1.csproj",
+      "projectUniqueName": "D:\\Sunbeam\\.net assignment\\AllAssignment\\Assignment1\\Assignment1.csproj",
       "projectName": "Assignment1",
-      "projectPath": "C:\\Users\\pravi\\Desktop\\exam\\Assignment1\\Assignment1.csproj",
+      "projectPath": "D:\\Sunbeam\\.net assignment\\AllAssignment\\Assignment1\\Assignment1.csproj",
       "packagesPath": "C:\\Users\\pravi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pravi\\Desktop\\exam\\Assignment1\\obj\\",
+      "outputPath": "D:\\Sunbeam\\.net assignment\\AllAssignment\\Assignment1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
